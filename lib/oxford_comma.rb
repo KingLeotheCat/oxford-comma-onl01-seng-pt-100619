@@ -5,5 +5,5 @@ if array.length == 1
  
  if array.length == 2
    array.join(" and ")
-end
+  end
 end
