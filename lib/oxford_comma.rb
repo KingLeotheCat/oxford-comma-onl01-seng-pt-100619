@@ -7,8 +7,8 @@ if array.length == 1
    array.join(" and ")
   
   
-  elsif array.length == 3
-    array.insert[-1](0, "and ")
-    array.join(", ")
+  # elsif array.length == 3
+  #   array.insert[-1](0, "and ")
+  #   array.join(", ")
   end
 end
